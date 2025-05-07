@@ -57,6 +57,8 @@ I love debugging! There's nothing more satisfying than squashing that last elusi
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 
 ---
