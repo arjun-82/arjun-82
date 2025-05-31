@@ -35,7 +35,8 @@ I'm open to collaborating on:
 
 - 📧 Email: [arjunoffical.tech@gmail.com](mailto:arjunoffical.tech@gmail.com)  
 - 📱 Phone: +91 8089991810  
-- 📍 Location: Kozhikode, Kerala, India  
+- 📍 Location: Kozhikode, Kerala, India
+- 🌐 https://arjyun.netlify.app
 
 ---
 
