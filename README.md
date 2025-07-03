@@ -1,43 +1,43 @@
 # 👋 Hi, I’m Arjun C (@arjun-82)
 
-I'm a passionate **Flutter Developer** with a strong eagerness to learn and build beautiful, high-performance applications for both mobile and web. Currently focusing on mastering Flutter, Firebase, and clean architecture principles.
+I'm a passionate **Flutter Developer** with a strong eagerness to learn and build beautiful, high-performance applications for both mobile and web. I focus on creating scalable apps using Flutter, Firebase, and clean architecture principles.
 
 ---
 
 ## 🚀 About Me
 
-- 🎯 **Goal:** Build scalable apps with elegant UI and robust backend integration.
-- 📱 **Tech Stack:** Flutter, Dart, Firebase, REST APIs, GetX, Riverpod
-- 🧠 **Learning:** Advanced Flutter animations, Bloc, Clean Architecture
-- 📈 **Experience:** 1 year hands-on Flutter development (personal and academic projects)
+- 🎯 **Goal:** Build scalable, elegant, and efficient applications with modern UI and robust backend integration.
+- 💻 **Tech Stack:** Flutter, Dart, Firebase, REST APIs, GetX, Riverpod
+- 🧠 **Currently Learning:** Advanced Flutter animations, Bloc, Clean Architecture
+- 📈 **Experience:** 1 year of hands-on Flutter development (personal + academic projects)
 
 ---
 
 ## 💻 What I’m Working On
 
-- 🔨 E-commerce App (Mobile + Web)  
-- 🏥 Clinic Management System  
-- 📦 Firebase-integrated shopping cart app  
+- 🔨 **E-commerce App** (Mobile + Web)  
+- 🏥 **Clinic Management System**  
+- 📦 **Firebase-integrated Shopping Cart App**  
+- 🎵 **Spotify Clone** *(In Progress)* ![Status](https://img.shields.io/badge/status-WIP-yellow)
 
 ---
 
-## 🤝 Let's Collaborate
+## 🤝 Let’s Collaborate On
 
-I'm open to collaborating on:
-- Mobile apps with Flutter  
-- UI/UX design integration  
-- Firebase backend solutions
-- Rest Api integration
-- Open-source contributions  
+- 📱 Mobile apps with Flutter  
+- 🎨 UI/UX integration in Flutter  
+- 🔥 Firebase backend solutions  
+- 🌐 REST API integrations  
+- 🌍 Open-source contributions  
 
 ---
 
-## 📫 How to Reach Me
+## 📫 Reach Me At
 
 - 📧 Email: [arjunoffical.tech@gmail.com](mailto:arjunoffical.tech@gmail.com)  
-- 📱 Phone: +91 8078235564  
-- 📍 Location: Kozhikode, Kerala, India
-- 🌐 https://arjyun.netlify.app
+- 📞 Phone: +91 8078235564  
+- 📍 Location: Kozhikode, Kerala, India  
+- 🌐 Portfolio: [arjyun.netlify.app](https://arjyun.netlify.app)
 
 ---
 
@@ -49,7 +49,7 @@ I'm open to collaborating on:
 
 ## ⚡ Fun Fact
 
-I love debugging! There's nothing more satisfying than squashing that last elusive bug 🐞✨
+I love debugging! There's nothing more satisfying than squashing that elusive last bug 🐞✨
 
 ---
 
@@ -71,10 +71,5 @@ I love debugging! There's nothing more satisfying than squashing that last elusi
 
 ---
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+> *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
 
-
-<!---
-arjun-82/arjun-82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
