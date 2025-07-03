@@ -26,7 +26,8 @@ I'm a passionate **Flutter Developer** with a strong eagerness to learn and buil
 I'm open to collaborating on:
 - Mobile apps with Flutter  
 - UI/UX design integration  
-- Firebase backend solutions  
+- Firebase backend solutions
+- Rest Api integration
 - Open-source contributions  
 
 ---
