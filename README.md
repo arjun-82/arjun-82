@@ -8,8 +8,11 @@ I'm a passionate **Flutter Developer** with a strong eagerness to learn and buil
 
 - 🎯 **Goal:** Build scalable, elegant, and efficient applications with modern UI and robust backend integration.
 - 💻 **Tech Stack:** Flutter, Dart, Firebase, REST APIs, GetX, Riverpod
-- 🧠 **Currently Learning:** Advanced Flutter animations, Bloc, Clean Architecture
+- 🧠 **Currently Learning:** Advanced Flutter animations, Clean Architecture
 - 📈 **Experience:** 1 year of hands-on Flutter development (personal + academic projects)
+- 🛠️ Development Philosophy: Write clean, maintainable, and testable code with a focus on user experience and performance
+- 📚 Exploring: Best practices in app architecture, Firebase authentication & Firestore, Flutter animations, and reusable design systems
+- 🌱 Soft Skills: Fast learner, problem solver, team player, and passionate about continuous improvement
 
 ---
 
