@@ -1,46 +1,74 @@
 # 👋 Hi, I’m Arjun C (@arjun-82)
 
-I'm a passionate **Flutter Developer** with a strong eagerness to learn and build beautiful, high-performance applications for both mobile and web. I focus on creating scalable apps using Flutter, Firebase, and clean architecture principles.
+I'm a **Flutter Developer** focused on building scalable, high-performance mobile applications using Flutter, Firebase, and modern software architecture principles. I enjoy creating clean, maintainable solutions that deliver excellent user experiences and solve real-world problems.
 
 ---
 
 ## 🚀 About Me
 
-- 🎯 **Goal:** Build scalable, elegant, and efficient applications with modern UI and robust backend integration.
-- 💻 **Tech Stack:** Flutter, Dart, Firebase, REST APIs, GetX, Riverpod
-- 🧠 **Currently Learning:** Advanced Flutter animations, Clean Architecture
-- 📈 **Experience:** 1 year of hands-on Flutter development (personal + academic projects)
-- 🛠️ Development Philosophy: Write clean, maintainable, and testable code with a focus on user experience and performance
-- 📚 Exploring: Best practices in app architecture, Firebase authentication & Firestore, Flutter animations, and reusable design systems
-- 🌱 Soft Skills: Fast learner, problem solver, team player, and passionate about continuous improvement
+* 🎯 **Goal:** Build scalable, efficient, and user-centric applications with modern architecture and robust backend integrations.
+* 💻 **Tech Stack:** Flutter, Dart, Firebase, Supabase, REST APIs, GetX, Riverpod
+* 🧠 **Currently Learning:** Advanced Flutter development, System Design, and scalable application architecture
+* 📈 **Experience:** 1+ year of hands-on Flutter development experience
+* 📱 **Applications Built:** 10+ mobile and web applications
+* 🛠️ **Development Philosophy:** Write clean, maintainable, and testable code with a strong focus on performance and scalability
+* 📚 **Exploring:** Clean Architecture, backend systems, reusable design systems, and advanced state management
+* 🌱 **Soft Skills:** Problem solving, adaptability, teamwork, and continuous learning
 
 ---
 
 ## 💻 What I’m Working On
 
-- 🔨 **E-commerce App** (Mobile + Web)  
-- 🏥 **Clinic Management System**  
-- 📦 **Firebase-integrated Shopping Cart App**  
-- 🎵 **Spotify Clone** *(In Progress)* ![Status](https://img.shields.io/badge/status-WIP-yellow)
+* 📱 Building scalable Flutter applications
+* ☁️ Integrating Firebase and Supabase services
+* 🏗️ Implementing Clean Architecture patterns
+* 🔔 Developing real-time and notification-driven features
+* 🚀 Optimizing application performance and maintainability
+
+---
+
+## 💼 Experience
+
+### Flutter Developer Intern — NeST Digital
+
+📍 Ernakulam
+
+* Worked with industry-standard Flutter development practices
+* Collaborated in professional development workflows
+* Gained exposure to enterprise application architecture
+* Contributed to real-world mobile applications
+
+---
+
+## 🚧 Development Highlights
+
+* ✅ 7+ Flutter applications developed
+* ✅ Multiple Firebase-integrated applications
+* ✅ Experience with authentication, cloud databases, and push notifications
+* ✅ Built applications with role-based access systems
+* ✅ Implemented REST API integrations and real-time features
+* ✅ Worked with scalable architectures and state management solutions
+* ✅ Experience in mobile and web application development
 
 ---
 
 ## 🤝 Let’s Collaborate On
 
-- 📱 Mobile apps with Flutter  
-- 🎨 UI/UX integration in Flutter  
-- 🔥 Firebase backend solutions  
-- 🌐 REST API integrations  
-- 🌍 Open-source contributions  
+* 📱 Flutter mobile applications
+* 🎨 UI/UX implementation
+* 🔥 Firebase & Supabase solutions
+* 🌐 REST API integrations
+* 🏗️ Clean Architecture implementations
+* 🌍 Open-source contributions
 
 ---
 
 ## 📫 Reach Me At
 
-- 📧 Email: [arjunoffical.tech@gmail.com](mailto:arjunoffical.tech@gmail.com)  
-- 📞 Phone: +91 8078235564  
-- 📍 Location: Kozhikode, Kerala, India  
-- 🌐 Portfolio: [arjyun.netlify.app](https://arjyun.netlify.app)
+* 📧 Email: [arjunoffical.tech@gmail.com](mailto:arjunoffical.tech@gmail.com)
+* 📞 Phone: +91 8078235564
+* 📍 Location: Kozhikode, Kerala, India
+* 🌐 Portfolio: [arjyun.netlify.app](https://arjyun.netlify.app)
 
 ---
 
@@ -52,27 +80,56 @@ I'm a passionate **Flutter Developer** with a strong eagerness to learn and buil
 
 ## ⚡ Fun Fact
 
-I love debugging! There's nothing more satisfying than squashing that elusive last bug 🐞✨
+I enjoy debugging and optimizing applications—finding and fixing complex issues is one of the most rewarding parts of development. 🐞✨
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+### Mobile Development
+
+* Flutter
+* Dart
+
+### State Management
+
+* GetX
+* Riverpod
+* Provider
+
+### Backend & Cloud
+
+* Firebase
+* Supabase
+* REST APIs
+
+### Local Storage
+
+* Hive
+* SharedPreferences
+* SQLite
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* Android Studio
 
 ---
 
 ## 📊 GitHub Stats
 
-![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=arjun-82&show_icons=true&theme=dracula)
+---
+
+## 🎯 Current Focus
+
+* Building scalable Flutter applications
+* Exploring backend architecture
+* Learning advanced system design
+* Improving app performance and maintainability
+* Contributing to production-ready products
 
 ---
 
 > *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
-
