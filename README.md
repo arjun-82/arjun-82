@@ -27,19 +27,6 @@ I'm a **Flutter Developer** focused on building scalable, high-performance mobil
 
 ---
 
-## 💼 Experience
-
-### Flutter Developer Intern — NeST Digital
-
-📍 Ernakulam
-
-* Worked with industry-standard Flutter development practices
-* Collaborated in professional development workflows
-* Gained exposure to enterprise application architecture
-* Contributed to real-world mobile applications
-
----
-
 ## 🚧 Development Highlights
 
 * ✅ 7+ Flutter applications developed
