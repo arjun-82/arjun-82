@@ -55,7 +55,7 @@ I'm a **Flutter Developer** focused on building scalable, high-performance mobil
 * 📧 Email: [arjunoffical.tech@gmail.com](mailto:arjunoffical.tech@gmail.com)
 * 📞 Phone: +91 8078235564
 * 📍 Location: Kozhikode, Kerala, India
-* 🌐 Portfolio: [arjyun.netlify.app](https://arjyun.netlify.app)
+* 🌐 Portfolio: [Portfolio](https://arjun-dev.vercel.app/)
 
 ---
 
